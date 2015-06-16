@@ -1,15 +1,13 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Surveillance
+subtitle: Video Evidence Collection
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+img: law-court.png
+thumbnail: law-court.png
+category: Video Surveillance & Court Testimonials
+description:
+ - 'In Laube vs. Juchli, Mr. Justice Lee stated: "an important part of this trial involved the showing of surveillance videos and surveillance evidence surrounding the surveillance videos taken of the plaintiff"'
+ - 'In Simmons vs. Koenig, Madam Justice E.M.Nash stated: "the video contradicts Mr. Simmons" testimony..." "Mr. Simmons claim for general damages is therefore dismissed"'
 ---
